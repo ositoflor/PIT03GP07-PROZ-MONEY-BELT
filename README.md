@@ -1,16 +1,23 @@
-# finance_firebase
+# Money Belt
 
-A new Flutter project.
+Projeto desenvolvido no curso 
 
-## Getting Started
+Esta aplicação foi desenvolvida no curso da Proz Educação, para ajudá-lo a controlar suas finanças de forma simples e eficiente. Com ela, você pode acompanhar suas despesas e receitas, definir orçamentos e metas financeiras, e receber alertas para ajudá-lo a manter suas finanças sob controle.
 
-This project is a starting point for a Flutter application.
+Funcionalidades:
 
-A few resources to get you started if this is your first Flutter project:
+Registro de despesas e receitas: a aplicação permite que você registre todas as suas despesas e receitas, para que possa acompanhar seus gastos e ganhos ao longo do tempo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Categorização de transações: você pode categorizar suas transações para que possa entender onde está gastando seu dinheiro e onde pode economizar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Definição de orçamentos: com a aplicação, você pode definir orçamentos para cada categoria de gastos, para que possa controlar melhor suas despesas.
+
+Metas financeiras: defina metas financeiras de curto e longo prazo, como economizar para uma viagem ou comprar uma casa.
+
+Alertas e notificações: receba alertas e notificações para ajudá-lo a manter suas finanças sob controle e evitar gastos excessivos.
+
+Gráfico: visualize suas finanças em gráfico, para que possa ter uma visão geral de como está gastando seu dinheiro.
+
+Esperamos que nossa aplicação seja útil para você e que ajude a controlar suas finanças de forma mais eficiente e organizada. Se tiver alguma dúvida ou sugestão, entre em contato conosco.
+
+![](https://drive.google.com/file/d/1-fFnnPA0g1OSuJx4MXOEE6Bp5K-Hu0Og/view?usp=sharing)
